@@ -1,0 +1,9 @@
+[[libmousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "5b0fbf0df120a405fe8b52b9bad394dd02ffbb4e"
+julia_version = "1.11"
+os = "windows"
+
+    [[libmousetrap.download]]
+    sha256 = "51ebe7942b46aa1254993235cea6f8f430a199bd537d5edbf8c4fd1ee5ae959b"
+    url = "https://github.com/HyperSphereStudio/libmousetrap_jll/releases/download/libmousetrap-v0.4.5+0/libmousetrap.v0.4.5.x86_64-w64-mingw32-julia_version+1.11.tar.gz"
