@@ -11,13 +11,13 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 The tarballs for `libmousetrap_jll.jl` have been built from these sources:
 
 * git repository: https://github.com/HyperSphereStudio/mousetrap.git (revision: `b66a2599d10642991c5a9fc983f69b2caef15cf1`)
-* git repository: https://github.com/HyperSphereStudio/mousetrap_julia_binding.git (revision: `1e1944c4391e1f8e0f90e23f60d5463dd19a2ea6`)
+* git repository: https://github.com/HyperSphereStudio/mousetrap_julia_binding.git (revision: `8d3b3491e997b4d8286876f8986ff84d5b89d5dd`)
 
 ## Platforms
 
 `libmousetrap_jll.jl` is available for the following platforms:
 
-* `Windows x86_64 {julia_version=1.11}` (`x86_64-w64-mingw32-julia_version+1.11`)
+* `Windows x86_64 {julia_version=1.10}` (`x86_64-w64-mingw32-julia_version+1.10`)
 
 ## Dependencies
 
