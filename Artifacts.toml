@@ -1,6 +1,6 @@
 [[libmousetrap]]
 arch = "x86_64"
-git-tree-sha1 = "5b0fbf0df120a405fe8b52b9bad394dd02ffbb4e"
+git-tree-sha1 = "d44da5259b9868fa61775568b98988abb63cd5a6"
 julia_version = "1.11"
 os = "windows"
 
